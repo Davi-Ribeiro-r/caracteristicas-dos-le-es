@@ -1,0 +1,37 @@
+body{
+    background-color: #aae0bf;
+}
+h1{
+    color: #4e2208;;
+}
+h2{
+    color: #df9408;
+}
+h3{
+    color: #df9408;
+    ont-size: 20px;
+}
+.p1{
+    color: #2b4404;
+    font-size: 18px;
+}
+.p2{
+    color: #750505;
+    ont-size: 18px;
+}
+.p3{
+    color: #043302;
+    ont-size: 18px;
+}
+img{
+    border-radius: 20px;
+}
+ul{
+    color: #182e03;
+}
+ol{
+    color: #182e03;
+}
+table{
+    color: #252716;
+}
